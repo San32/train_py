@@ -1,2 +1,2 @@
 # train_py
-train pa
+git 시험용입니다.

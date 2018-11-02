@@ -1,2 +1,4 @@
 http://220.95.178.158:82/trainruninfo.aspx?lineno=1
 인터넷에서 열차위치 읽어오기
+
+변경 후 git 등록 시험

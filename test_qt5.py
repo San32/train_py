@@ -15,7 +15,7 @@ class RecordVideo:
         def run(self):
                 self.running = True
                 while self.running:
-                        read, image = self.camera.read()
+                        read, image = elf.camera.read()
                         # TODO: detect faces now
 
 class FaceDetection:
